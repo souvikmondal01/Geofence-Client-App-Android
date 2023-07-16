@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WASS User</string>
+    <string name="dialogMessage">You need to accept location permission to use this app.</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="sign_out">sign out</string>
+</resources>

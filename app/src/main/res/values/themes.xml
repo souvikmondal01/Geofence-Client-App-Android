@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WASSUser" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/white</item>
+    </style>
+
+    <style name="Theme.WASSUser" parent="Base.Theme.WASSUser" />
+</resources>
